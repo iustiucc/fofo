@@ -9,7 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.env
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -416,3 +415,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+package-lock.json
+.env
+node_modules/
+dist/
+*.log
